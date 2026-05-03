@@ -117,5 +117,5 @@ Launcher arranca
     │
     └── Botón JUGAR habilitado
 ```
-"# Bizarroland4-Launcher-oficial" 
-"# Bizarroland4-Launcher-oficial" 
+
+# Bizarroland4-Launcher-oficial
