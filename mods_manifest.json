@@ -1,0 +1,501 @@
+{
+  "_info": {
+    "server": "BizarroLand",
+    "mc_version": "1.20.1",
+    "loader": "Forge 47.3.0",
+    "manifest_version": "2",
+    "last_updated": "2026-05-03"
+  },
+  "dependencies_required": [
+    {
+      "name": "GeckoLib",
+      "filename": "geckolib-forge-1.20.1-4.4.9.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar",
+      "why": "Requerido por: Alex Caves, Faunify, Wings of Fire, Primal, Cataclysm, Born in Chaos, Irons Spells",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Curios API",
+      "filename": "curios-forge-5.9.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+      "why": "Requerido por: Hexerei, Irons Spells, Sophisticated Backpacks, EnderPack, Advance Netherite",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Balm",
+      "filename": "balm-forge-1.20.1-7.3.6.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/8rz04Kha/balm-forge-1.20.1-7.3.38-all.jar",
+      "why": "Requerido por: Waystones",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Patchouli",
+      "filename": "Patchouli-1.20.1-84-FORGE.jar",
+      "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+      "why": "Requerido por: Hexerei (guidebook), Irons Spells",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "filename": "kotlinforforge-4.11.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "why": "Requerido por: Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Architectury API",
+      "filename": "architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    }
+  ],
+  "mods": [
+    {
+      "id": 1,
+      "name": "Hexerei",
+      "description": "Brujeria y magia — calderos, escobas, covens",
+      "category": "Magia",
+      "filename": "hexerei-0.4.2.3.jar",
+      "url": "https://cdn.modrinth.com/data/IQSOHVhI/versions/z5SfvrzM/hexerei-0.4.2.3.jar",
+      "version": "0.4.2.3",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/hexerei",
+      "dependencies": [
+        "Curios API",
+        "Patchouli"
+      ],
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 2,
+      "name": "Marvelous Menagerie: Paradoxical",
+      "description": "Dinosaurios y criaturas prehistoricas — excavacion de fosiles y portales temporales",
+      "category": "Criaturas / Paleontologia",
+      "filename": "marvelous_menagerie-0.3-BETA.jar",
+      "url": "https://cdn.modrinth.com/data/6UwDKoDM/versions/G2aFz1Mh/marvelous_menagerie-1.3.2-1.20.1.jar",
+      "version": "0.3-BETA",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/marvelous-menagerie-paradoxical",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 3,
+      "name": "Alex's Caves",
+      "description": "Cuevas con biomas unicos, criaturas y estructuras subterraneas",
+      "category": "Mundo / Cuevas",
+      "filename": "alexscaves-1.1.5.jar",
+      "url": "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar",
+      "version": "1.1.5",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/alexs-caves",
+      "dependencies": [
+        "GeckoLib"
+      ],
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 4,
+      "name": "Starcatcher",
+      "description": "Pesca avanzada — 100+ peces, minijuego de pesca, catalogo, acuarios",
+      "category": "Pesca / Aventura",
+      "filename": "starcatcher-1.1-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/h2jXvxNR/versions/8GwmG5Pc/starcatcher-2.3.8-FORGE-1.20.1.jar",
+      "version": "1.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/starcatcher",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 5,
+      "name": "Wings of Fire",
+      "description": "Dragones de la saga Wings of Fire — criaturas montables",
+      "category": "Criaturas / Dragones",
+      "filename": "WingsOfFire-1.0-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/SZUNJJPJ/versions/kSVbKPiW/Wings%20Of%20Fire%20V1.0%20-%20Forge%201.20.1.jar",
+      "version": "1.0",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/wings-of-fire!",
+      "warning": "⚠️ Version nueva — verificar URL exacta en Modrinth",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 6,
+      "name": "Faunify",
+      "description": "Variantes de animales por bioma — texturas unicas para vacas, pollos, lobos",
+      "category": "Criaturas / Inmersi",
+      "filename": "faunify-1.2.4-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/lqLPTalI/versions/KslEDeor/faunify-forge-1.20.1-1.3.1.jar",
+      "version": "1.2.4",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/faunify",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 7,
+      "name": "Primal Frontier",
+      "description": "Dinosaurios montables — complementa a Marvelous Menagerie",
+      "category": "Criaturas / Dinosaurios",
+      "filename": "primal_frontier-0.3.1-alpha-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/xkWLBh5U/versions/qn9O5dAC/primal_frontier-0.4.1-alpha-forge-1.20.1.jar",
+      "version": "0.3.1-alpha",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/primal-frontier",
+      "dependencies": [
+        "GeckoLib"
+      ],
+      "warning": "⚠️ Alpha — posibles crashes",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 8,
+      "name": "Advanced Netherite",
+      "description": "Mejoras de netherite — armaduras y herramientas ultra-avanzadas post-netherite",
+      "category": "Equipo / Progresion",
+      "filename": "advanced_netherite-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/CFX9ftUJ/versions/DW4je0EN/advancednetherite-forge-2.1.3-1.20.1.jar",
+      "version": "ultima-1.20.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/advanced-netherite",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 9,
+      "name": "Small Ships",
+      "description": "Barcos funcionales navegables — galeras, balandras, balsas",
+      "category": "Transporte / Exploracion",
+      "filename": "smallships-2.0.0.b.1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/rGWEHQrP/versions/58DKgNnY/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "version": "2.0.0-beta",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/small-ships",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 11,
+      "name": "Towns and Towers",
+      "description": "50+ nuevas aldeas y puestos de saqueadores — estilo vanilla mejorado",
+      "category": "Estructuras / Mundo",
+      "filename": "towns-and-towers-1.12-forge+fabric.jar",
+      "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar",
+      "version": "1.12",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/towns-and-towers",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 12,
+      "name": "Moog's Nether Structures",
+      "description": "160+ estructuras nuevas en el Nether con loot y enemigos",
+      "category": "Estructuras / Nether",
+      "filename": "MoogsNetherStructures-1.20-1.0.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/nGUXvjTa/versions/6iByrxOG/MoogsNetherStructures-1.20-2.0.3.jar",
+      "version": "1.0.1-1.20",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/mns-moogs-nether-structures",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 13,
+      "name": "WI Zoom",
+      "description": "Zoom configurable con scroll — sin OptiFine",
+      "category": "QoL / Cliente",
+      "filename": "WIZoom-1.20.x-1.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/o7DitHWP/versions/lrZgFzcQ/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "version": "1.0.3",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "client_only": true,
+      "modrinth_page": "https://modrinth.com/mod/wi-zoom",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 14,
+      "name": "EnderPack",
+      "description": "Mochila de ender visual equipable en la espalda",
+      "category": "Almacenamiento / Equipo",
+      "filename": "EnderPack-2.1.0-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/HaS8KaHF/versions/HrKLuEAj/ender_pack-merged-1.20.1-2.2.0.jar",
+      "version": "2.1.0",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/enderpack",
+      "dependencies": [
+        "Curios API"
+      ],
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 15,
+      "name": "Sophisticated Backpacks",
+      "description": "Mochilas con upgrade slots — filtros, auto-recogida, compactadores",
+      "category": "Almacenamiento",
+      "filename": "sophisticatedbackpacks-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Kk3OxV7o/sophisticatedbackpacks-1.20.1-3.24.37.1730.jar",
+      "version": "ultima-1.20.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/sophisticated-backpacks",
+      "note": "Elegir UNO entre Sophisticated o Traveler's Backpack",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 16,
+      "name": "Visual Workbench",
+      "description": "Items mostrados visualmente encima de la mesa de trabajo",
+      "category": "QoL / Visual",
+      "filename": "visualworkbench-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/qaWEHDC3/VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "version": "ultima-1.20.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/visual-workbench",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 18,
+      "name": "JEI (Just Enough Items)",
+      "description": "Visualizador de recetas esencial",
+      "category": "QoL / Recetas",
+      "filename": "jei-1.20.1-forge-15.3.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RTFeXsvE/jei-1.20.1-forge-15.20.0.130.jar",
+      "version": "15.3.0.4",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/jei",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 19,
+      "name": "Emotecraft",
+      "description": "Emotes personalizables con keybinds en multijugador",
+      "category": "Social / Multijugador",
+      "filename": "emotecraft-for-MC1.20-2.2.6-forge.jar",
+      "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2f5mEUPY/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "version": "2.2.6",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/emotecraft",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 20,
+      "name": "AppleSkin",
+      "description": "Estadisticas de comida en el HUD — saturacion y hambre visibles",
+      "category": "QoL / HUD",
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "version": "2.5.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/appleskin",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 21,
+      "name": "Emoji Type",
+      "description": "Emojis en el chat de Minecraft",
+      "category": "Social / Chat",
+      "filename": "EmojiType-1.20-1.2.jar",
+      "url": "https://cdn.modrinth.com/data/q7vRRpxU/versions/bOTB1mD7/emoji-type-2.2.3%2B1.20.4-forge.jar",
+      "version": "1.2",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/emoji-type",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 22,
+      "name": "Player Revive",
+      "description": "Sistema de revivir — jugadores derrotados rescatables por compañeros",
+      "category": "Multijugador / Supervivencia",
+      "filename": "playerrevive-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/ABIMzABM/versions/fUdn8MeF/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "version": "ultima-1.20.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/player-revive",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 23,
+      "name": "Gravestone",
+      "description": "Lapidas que guardan objetos al morir — con almas y sistema de recuperacion",
+      "category": "Mecanicas / Muerte",
+      "filename": "gravestone-forge-1.20.1-1.0.35.jar",
+      "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/q9kZE5Xo/gravestone-forge-1.20.1-1.0.35.jar",
+      "version": "8.6.6",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/corail-tombstone",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 24,
+      "name": "Ad Astra",
+      "description": "Exploracion espacial — cohetes, planetas, estaciones espaciales",
+      "category": "Dimensiones / Exploracion",
+      "filename": "ad_astra-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Qf7QFXk2/ad_astra-forge-1.20.1-1.15.20.jar",
+      "version": "ultima-1.20.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/ad-astra",
+      "dependencies": [
+        "Kotlin for Forge",
+        "Architectury API"
+      ],
+      "warning": "⚠️ Mod pesado — 6GB+ RAM",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 25,
+      "name": "Waystones",
+      "description": "Piedras de teletransporte — viaje rapido entre waypoints",
+      "category": "Transporte / QoL",
+      "filename": "waystones-forge-1.20.1-14.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/sKoHLGbK/waystones-forge-1.20.1-14.1.20.jar",
+      "version": "14.1.3",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/waystones",
+      "dependencies": [
+        "Balm"
+      ],
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 26,
+      "name": "Immersive Aircraft",
+      "description": "Aviones y globos aeroestaticos pilotables",
+      "category": "Transporte / Exploracion",
+      "filename": "immersive_aircraft-0.7.3+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/jPZ0GRsN/immersive_aircraft-1.4.0%2B1.20.1-forge.jar",
+      "version": "0.7.3",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/immersive-aircraft",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 27,
+      "name": "Advancement Plaques",
+      "description": "Logros mostrados con animacion elegante en pantalla",
+      "category": "QoL / Visual",
+      "filename": "advancementplaques-forge-1.20.1-1.4.10.jar",
+      "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/xqigG9AR/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "version": "1.4.10",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/advancement-plaques",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 28,
+      "name": "Create",
+      "description": "Automatizacion con engranajes y maquinaria steampunk",
+      "category": "Tecnologia / Automatizacion",
+      "filename": "create-1.20.1-0.5.1.f.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar",
+      "version": "0.5.1.f",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/create",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 29,
+      "name": "Iron's Spells 'n Spellbooks",
+      "description": "Sistema de magia RPG — hechizos, runas, grimoires y clases magicas",
+      "category": "Magia / RPG",
+      "filename": "irons_spellbooks-1.20.1-3.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/Az9kyOso/irons_spellbooks-1.20.1-3.15.6.jar",
+      "version": "3.4.2",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/irons-spells-n-spellbooks",
+      "dependencies": [
+        "Curios API",
+        "GeckoLib",
+        "Patchouli"
+      ],
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 30,
+      "name": "L_Ender's Cataclysm",
+      "description": "Bosses epicos de alta dificultad — Ignis, Ancient Remnant, Ender Guardian",
+      "category": "Bosses / Aventura",
+      "filename": "cataclysm-1.20.1-forge-1.4.jar",
+      "url": "https://cdn.modrinth.com/data/46KJle7n/versions/TFKWu05d/L_Enders_Cataclysm-3.27.jar",
+      "version": "1.4",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/l_enders-cataclysm",
+      "dependencies": [
+        "GeckoLib"
+      ],
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 32,
+      "name": "Right Click Harvest",
+      "description": "Cosechar cultivos con clic derecho — replanta automaticamente",
+      "category": "QoL / Granja",
+      "filename": "rightclickharvest-3.2.1+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/NFxivT5s/rightclickharvest-forge-4.6.1%2B1.20.1.jar",
+      "version": "3.2.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/rightclickharvest",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 33,
+      "name": "Duckling",
+      "description": "Patitos adorables — crias de pato que siguen a los adultos",
+      "category": "Criaturas / Inmersi",
+      "filename": "Duckling-v1.2.3-1.20.1-Forge.jar",
+      "url": "https://cdn.modrinth.com/data/jkb861Ih/versions/IwtFizop/duckling-neoforge-1.20.4-4.0.0.jar",
+      "version": "1.2.3",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/duckling",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "id": 34,
+      "name": "Jump Over Fences",
+      "description": "Los jugadores saltan vallas automaticamente al caminar contra ellas",
+      "category": "QoL / Movimiento",
+      "filename": "jumpoverfences-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/4HeIHvIP/versions/JO0gOoeH/jumpoverfences-forge-1.20.1-1.3.1.jar",
+      "version": "ultima-1.20.1",
+      "mc_version": "1.20.1",
+      "loader": "Forge",
+      "modrinth_page": "https://modrinth.com/mod/jump-over-fences",
+      "sha256": "PENDIENTE"
+    }
+  ],
+  "todo_before_launch": [
+    "1. Para mods con URL 'VERIFICAR_EN_MODRINTH': ir a la pagina de Modrinth del mod y copiar la URL directa del .jar",
+    "2. Descargar cada .jar y calcular su sha256: sha256sum archivo.jar (Linux/Mac) o Get-FileHash archivo.jar (Windows PS)",
+    "3. Reemplazar todos los 'PENDIENTE' con URLs reales y hashes calculados",
+    "4. Subir los .jar a tu servidor/CDN y actualizar las URLs en este JSON",
+    "5. Actualizar MODS_MANIFEST_URL en launcher.py con la URL publica de este JSON",
+    "6. CliffTree: instalar como datapack en saves/[mundo]/datapacks/, NO en /mods",
+    "7. Elegir SOLO UNO entre Sophisticated Backpacks o Traveler's Backpack",
+    "9. Instalar TODAS las dependencias de 'dependencies_required' junto con los mods"
+  ]
+}
