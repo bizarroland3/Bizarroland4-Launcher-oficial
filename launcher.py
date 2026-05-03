@@ -23,7 +23,7 @@ FORGE_VERSION = "47.3.0"
 FORGE_DOWNLOAD_ID = f"{MC_VERSION}-{FORGE_VERSION}" 
 
 # URL del JSON de mods (asegúrate de que sea pública)
-MODS_MANIFEST_URL = "https://raw.githubusercontent.com/bizarroland/mods/main/mods_manifest.json"
+MODS_MANIFEST_URL = "https://raw.githubusercontent.com/bizarroland3/Bizarroland4-Launcher-oficial/refs/heads/main/mods_manifest.json"
 
 BIZARRO_DIR = Path.home() / ".bizarroland"
 MODS_DIR = BIZARRO_DIR / "mods"
