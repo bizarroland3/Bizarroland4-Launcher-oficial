@@ -480,6 +480,55 @@
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/jump-over-fences",
       "sha256": "PENDIENTE"
+    },
+    {
+      "name": "GeckoLib",
+      "filename": "geckolib-forge-1.20.1-4.4.9.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar",
+      "why": "Requerido por: Alex Caves, Faunify, Wings of Fire, Primal, Cataclysm, Born in Chaos, Irons Spells",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Curios API",
+      "filename": "curios-forge-5.9.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+      "why": "Requerido por: Hexerei, Irons Spells, Sophisticated Backpacks, EnderPack, Advance Netherite",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Balm",
+      "filename": "balm-forge-1.20.1-7.3.6.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/8rz04Kha/balm-forge-1.20.1-7.3.38-all.jar",
+      "why": "Requerido por: Waystones",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Patchouli",
+      "filename": "Patchouli-1.20.1-84-FORGE.jar",
+      "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+      "why": "Requerido por: Hexerei (guidebook), Irons Spells",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "filename": "kotlinforforge-4.11.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "why": "Requerido por: Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Resourceful Lib",
+      "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "why": "Requerido por: Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Architectury API",
+      "filename": "architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
     }
   ],
   "todo_before_launch": [
