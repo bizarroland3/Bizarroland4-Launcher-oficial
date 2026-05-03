@@ -469,19 +469,6 @@
       "sha256": "PENDIENTE"
     },
     {
-      "id": 33,
-      "name": "Duckling",
-      "description": "Patitos adorables — crias de pato que siguen a los adultos",
-      "category": "Criaturas / Inmersi",
-      "filename": "Duckling-v1.2.3-1.20.1-Forge.jar",
-      "url": "https://cdn.modrinth.com/data/jkb861Ih/versions/IwtFizop/duckling-neoforge-1.20.4-4.0.0.jar",
-      "version": "1.2.3",
-      "mc_version": "1.20.1",
-      "loader": "Forge",
-      "modrinth_page": "https://modrinth.com/mod/duckling",
-      "sha256": "PENDIENTE"
-    },
-    {
       "id": 34,
       "name": "Jump Over Fences",
       "description": "Los jugadores saltan vallas automaticamente al caminar contra ellas",
