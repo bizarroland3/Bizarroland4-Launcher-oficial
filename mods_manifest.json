@@ -529,6 +529,111 @@
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
       "why": "Requerido por: Waystones, Ad Astra",
       "sha256": "PENDIENTE"
+    },
+    {
+      "name": "Cristellib",
+      "filename": "cristellib-1.1.6-forge.jar",
+      "url": "https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "monolib",
+      "filename": "monolib-forge-1.20.1-4.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/9leXt4A5/versions/dfbmSud0/monolib-forge-1.20.1-4.0.2.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "moogs_structure_lib",
+      "filename": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+      "url": "https://cdn.modrinth.com/data/1oUDhxuy/versions/xtqWb6du/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "creativecore",
+      "filename": "CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/6fWimIyT/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "puzzleslib",
+      "filename": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "iceberg",
+      "filename": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "resourefulconfig",
+      "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "lionfishapi",
+      "filename": "lionfishapi-2.7.jar",
+      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/G3m5juql/lionfishapi-2.7.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "jamlib",
+      "filename": "jamlib-forge-1.3.6%2B1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/hSQgYxv0/jamlib-forge-1.3.6%2B1.20.1.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "botarium",
+      "filename": "botarium-forge-1.20.1-2.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "playeranimator",
+      "filename": "player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "irons_lib",
+      "filename": "irons_lib-1.20.1-1.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/FPYSRrdq/irons_lib-1.20.1-1.0.2.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "citadel",
+      "filename": "citadel-2.6.3-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "unusualprehistory",
+      "filename": "unusualprehistory-1.5.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/tHu3oHNo/versions/RFAznUVo/unusualprehistory-1.5.0.3.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
+    },
+    {
+      "name": "sophisticatedcore",
+      "filename": "sophisticatedcore-1.20.1-1.3.32.1828.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/T03P5wxy/sophisticatedcore-1.20.1-1.3.32.1828.jar",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "PENDIENTE"
     }
   ],
   "todo_before_launch": [
