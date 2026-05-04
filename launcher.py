@@ -71,7 +71,8 @@ def check_mod_updates(manifest: dict) -> list[dict]:
         if not local.exists():
             pending.append({**mod, "reason": "no instalado"})
         elif mod.get("sha256") and not mod["sha256"].startswith("placeholder"):
-            if sha256_file(local) != mod["sha256"]:
+            local_hash = sha256_file(local)
+            if local_hash.lower() != mod["sha256"].lower():
                 pending.append({**mod, "reason": "actualización"})
     return pending
 
