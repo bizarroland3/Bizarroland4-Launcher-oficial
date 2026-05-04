@@ -12,49 +12,49 @@
       "filename": "geckolib-forge-1.20.1-4.4.9.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar",
       "why": "Requerido por: Alex Caves, Faunify, Wings of Fire, Primal, Cataclysm, Born in Chaos, Irons Spells",
-      "sha256": "PENDIENTE"
+      "sha256": "477D5D014D6641522CD0DEB93C66AEFFF755760259970C4C255FADB3D88FF702"
     },
     {
       "name": "Curios API",
       "filename": "curios-forge-5.9.1+1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
       "why": "Requerido por: Hexerei, Irons Spells, Sophisticated Backpacks, EnderPack, Advance Netherite",
-      "sha256": "PENDIENTE"
+      "sha256": "1E817919A35B37CF30524AAEC73F0CA5130452F23F168F844854DF282EB8E51F"
     },
     {
       "name": "Balm",
       "filename": "balm-forge-1.20.1-7.3.6.jar",
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/8rz04Kha/balm-forge-1.20.1-7.3.38-all.jar",
       "why": "Requerido por: Waystones",
-      "sha256": "PENDIENTE"
+      "sha256": "1F5222D5C0AB72B1F60D83C5B371FAA9CF733635810EFB2695A7BD56DBFA4458"
     },
     {
       "name": "Patchouli",
       "filename": "Patchouli-1.20.1-84-FORGE.jar",
       "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
       "why": "Requerido por: Hexerei (guidebook), Irons Spells",
-      "sha256": "PENDIENTE"
+      "sha256": "05F7B5D52F6B8F0FD7F8B4822FA07A192D1394D83A264309C9D221D6D4FD21C5"
     },
     {
       "name": "Kotlin for Forge",
       "filename": "kotlinforforge-4.11.0-all.jar",
       "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
       "why": "Requerido por: Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "6A66C6A68EC09F8717CDBF06883394F0EE24D7CD826B7134A0F81839E8E720AE"
     },
     {
       "name": "Resourceful Lib",
       "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
       "why": "Requerido por: Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "B13AFB95231D88E1CAEA5A045967E0FC291B29020B0D26AD39E6F9E9A551FEE8"
     },
     {
       "name": "Architectury API",
       "filename": "architectury-9.2.14-forge.jar",
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "218B471D0B8A1F6CDA14CFC1BEB9EEB0DF54304500ACC6C5613D9B88EC65D9AF"
     }
   ],
   "mods": [
@@ -73,7 +73,7 @@
         "Curios API",
         "Patchouli"
       ],
-      "sha256": "PENDIENTE"
+      "sha256": "419DB9F15AF0AC694DC53A9CC99FA97C3A0EF787AE3D43D9AFF87D2030E3F556"
     },
     {
       "id": 2,
@@ -86,7 +86,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/marvelous-menagerie-paradoxical",
-      "sha256": "PENDIENTE"
+      "sha256": "8B6BD9DFB57904C8979BF38F61D28F114DEFDBAB9C535CF16675E9BE7BC0F365"
     },
     {
       "id": 3,
@@ -102,7 +102,7 @@
       "dependencies": [
         "GeckoLib"
       ],
-      "sha256": "PENDIENTE"
+      "sha256": "131E205CE3EED384D701B336D8A0D4A671108ED56B6EFF6014F0E407DB2997F0"
     },
     {
       "id": 4,
@@ -115,7 +115,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/starcatcher",
-      "sha256": "PENDIENTE"
+      "sha256": "47EF3D5D403B622199152A942A0B2F39F80503DED32F63D4F7727EBEE3E69D0F"
     },
     {
       "id": 5,
@@ -129,7 +129,7 @@
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/wings-of-fire!",
       "warning": "⚠️ Version nueva — verificar URL exacta en Modrinth",
-      "sha256": "PENDIENTE"
+      "sha256": "F04E55C14C80D7F1BC0F18BD2F037F628A2C1A080399546E7424D7FC701A1803"
     },
     {
       "id": 6,
@@ -142,7 +142,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/faunify",
-      "sha256": "PENDIENTE"
+      "sha256": "95D254A44D0219C16A30B67B0E9D36FC924CE16CC517E8F0EF96C8B3BEA55A55"
     },
     {
       "id": 7,
@@ -159,7 +159,7 @@
         "GeckoLib"
       ],
       "warning": "⚠️ Alpha — posibles crashes",
-      "sha256": "PENDIENTE"
+      "sha256": "7C8B1E64FFFE601D15AC649A493BE03B988804B63E4E45EDDD009494772EF64C"
     },
     {
       "id": 8,
@@ -172,7 +172,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/advanced-netherite",
-      "sha256": "PENDIENTE"
+      "sha256": "ED5098D62B7AF9205B2B326A96FD8C02C99A77C6A35DAD641A7ECFAACCAA66FF"
     },
     {
       "id": 9,
@@ -185,7 +185,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/small-ships",
-      "sha256": "PENDIENTE"
+      "sha256": "F79A4DCAB3E1C8E4D14467CBFA655F4A16E0F0D0901E8F9BDE9E3F5E36735EFF"
     },
     {
       "id": 11,
@@ -198,7 +198,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/towns-and-towers",
-      "sha256": "PENDIENTE"
+      "sha256": "9C8115AF7109579DA990249FDD67B38323A45BE70F8A3A962B61DA69C7021984"
     },
     {
       "id": 12,
@@ -211,7 +211,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/mns-moogs-nether-structures",
-      "sha256": "PENDIENTE"
+      "sha256": "CFD3128B05731F08BBD3EF4CF45E247690B63E75E01AA411442156455DDC8B16"
     },
     {
       "id": 13,
@@ -225,7 +225,7 @@
       "loader": "Forge",
       "client_only": true,
       "modrinth_page": "https://modrinth.com/mod/wi-zoom",
-      "sha256": "PENDIENTE"
+      "sha256": "76A7B8E701D0EF27B1836A300EBD65B48193D211C0032511C943472FA653D883"
     },
     {
       "id": 14,
@@ -241,7 +241,7 @@
       "dependencies": [
         "Curios API"
       ],
-      "sha256": "PENDIENTE"
+      "sha256": "0E77E0875825527B44F2F60BB374F2907AF07D24DC1CB6DCE531F32C289BA55D"
     },
     {
       "id": 15,
@@ -255,7 +255,7 @@
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/sophisticated-backpacks",
       "note": "Elegir UNO entre Sophisticated o Traveler's Backpack",
-      "sha256": "PENDIENTE"
+      "sha256": "60A029CD705E14D0CF4C9A902DC038B7DE075BD172F98A8EF03AC2ABEB09F5E2"
     },
     {
       "id": 16,
@@ -268,7 +268,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/visual-workbench",
-      "sha256": "PENDIENTE"
+      "sha256": "915F226FA14CE274879487DD14F38AF5C57E1A9ADA85099501134C4C8A03897A"
     },
     {
       "id": 18,
@@ -281,7 +281,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/jei",
-      "sha256": "PENDIENTE"
+      "sha256": "36D3DFB2214B9DCA38C447FD971DD2DEDC5F69719A5ACA6FFCEF69B2840ECE0A"
     },
     {
       "id": 19,
@@ -294,7 +294,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/emotecraft",
-      "sha256": "PENDIENTE"
+      "sha256": "FFAAC96E37E6FA950080E2EB4AA361AA8B7BD6C4370862F39893AC2D266D7C14"
     },
     {
       "id": 20,
@@ -307,7 +307,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/appleskin",
-      "sha256": "PENDIENTE"
+      "sha256": "E12419E43E3BABC810AF289403C5CD96BD7F09809B389ACC6BB2F122B4B2A426"
     },
     {
       "id": 21,
@@ -320,7 +320,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/emoji-type",
-      "sha256": "PENDIENTE"
+      "sha256": "675012E994BF91A8E96013E2CEC37AA513A42D0E3E647AA804B0E300BF0114B1"
     },
     {
       "id": 22,
@@ -333,7 +333,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/player-revive",
-      "sha256": "PENDIENTE"
+      "sha256": "BEEB560232C8EE691EA446D53194358902EED8ED38D198515906AC724BDDE1FB"
     },
     {
       "id": 23,
@@ -346,7 +346,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/corail-tombstone",
-      "sha256": "PENDIENTE"
+      "sha256": "AF6DE8692229F07D203E118241F31C1DC4D03F8E3B44CACD155D76B449896387"
     },
     {
       "id": 24,
@@ -364,7 +364,7 @@
         "Architectury API"
       ],
       "warning": "⚠️ Mod pesado — 6GB+ RAM",
-      "sha256": "PENDIENTE"
+      "sha256": "99E274894AF7C3B01622A74775A9960B5857B35951888414E733F8C2EC683F26"
     },
     {
       "id": 25,
@@ -380,7 +380,7 @@
       "dependencies": [
         "Balm"
       ],
-      "sha256": "PENDIENTE"
+      "sha256": "F03014FABF2186A1DFF69BBE2473B3373AB9D6C7D2EA8AA18E46B4F5C7DBACB2"
     },
     {
       "id": 26,
@@ -393,7 +393,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/immersive-aircraft",
-      "sha256": "PENDIENTE"
+      "sha256": "45DD68B6707B3EEAE0C958D0242B29EC03CDD0D8FC88AF20761661EBF3C456CD"
     },
     {
       "id": 27,
@@ -406,7 +406,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/advancement-plaques",
-      "sha256": "PENDIENTE"
+      "sha256": "537F84F1153369D61878965846A8EAD7C5EAE3A6AD917B04C02521AD76182AD2"
     },
     {
       "id": 28,
@@ -419,7 +419,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/create",
-      "sha256": "PENDIENTE"
+      "sha256": "6FBB910C367DBCE8E4FC7E5BF64B6EDD4DE980906ED00AF8E47E4AF843C0D9B0"
     },
     {
       "id": 29,
@@ -437,7 +437,7 @@
         "GeckoLib",
         "Patchouli"
       ],
-      "sha256": "PENDIENTE"
+      "sha256": "61996BB3CDB9601D83376F81295967F19A6F036563BB5A0E0F672967344A6FA7"
     },
     {
       "id": 30,
@@ -466,7 +466,7 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/rightclickharvest",
-      "sha256": "PENDIENTE"
+      "sha256": "E7AE955174869497A7AA855CF859ABA6F37ABBB2A93B53E9E05935CF7709CC0A"
     },
     {
       "id": 34,
@@ -479,168 +479,168 @@
       "mc_version": "1.20.1",
       "loader": "Forge",
       "modrinth_page": "https://modrinth.com/mod/jump-over-fences",
-      "sha256": "PENDIENTE"
+      "sha256": "8F1DF33BC3FEBFC9E614F3409EF834B7DCCC0877E1ADADC8659B421DEF891931"
     },
     {
       "name": "GeckoLib",
       "filename": "geckolib-forge-1.20.1-4.4.9.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar",
       "why": "Requerido por: Alex Caves, Faunify, Wings of Fire, Primal, Cataclysm, Born in Chaos, Irons Spells",
-      "sha256": "PENDIENTE"
+      "sha256": "477D5D014D6641522CD0DEB93C66AEFFF755760259970C4C255FADB3D88FF702"
     },
     {
       "name": "Curios API",
       "filename": "curios-forge-5.9.1+1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
       "why": "Requerido por: Hexerei, Irons Spells, Sophisticated Backpacks, EnderPack, Advance Netherite",
-      "sha256": "PENDIENTE"
+      "sha256": "1E817919A35B37CF30524AAEC73F0CA5130452F23F168F844854DF282EB8E51F"
     },
     {
       "name": "Balm",
       "filename": "balm-forge-1.20.1-7.3.6.jar",
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/8rz04Kha/balm-forge-1.20.1-7.3.38-all.jar",
       "why": "Requerido por: Waystones",
-      "sha256": "PENDIENTE"
+      "sha256": "1F5222D5C0AB72B1F60D83C5B371FAA9CF733635810EFB2695A7BD56DBFA4458"
     },
     {
       "name": "Patchouli",
       "filename": "Patchouli-1.20.1-84-FORGE.jar",
       "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
       "why": "Requerido por: Hexerei (guidebook), Irons Spells",
-      "sha256": "PENDIENTE"
+      "sha256": "05F7B5D52F6B8F0FD7F8B4822FA07A192D1394D83A264309C9D221D6D4FD21C5"
     },
     {
       "name": "Kotlin for Forge",
       "filename": "kotlinforforge-4.11.0-all.jar",
       "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
       "why": "Requerido por: Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "6A66C6A68EC09F8717CDBF06883394F0EE24D7CD826B7134A0F81839E8E720AE"
     },
     {
       "name": "Resourceful Lib",
       "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
       "why": "Requerido por: Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "B13AFB95231D88E1CAEA5A045967E0FC291B29020B0D26AD39E6F9E9A551FEE8"
     },
     {
       "name": "Architectury API",
       "filename": "architectury-9.2.14-forge.jar",
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "218B471D0B8A1F6CDA14CFC1BEB9EEB0DF54304500ACC6C5613D9B88EC65D9AF"
     },
     {
       "name": "Cristellib",
       "filename": "cristellib-1.1.6-forge.jar",
       "url": "https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "3856AD565EA45D6189452D813E2F021B365B686D3B1ADAE5F747C56A1E535D9F"
     },
     {
       "name": "monolib",
       "filename": "monolib-forge-1.20.1-4.0.2.jar",
       "url": "https://cdn.modrinth.com/data/9leXt4A5/versions/dfbmSud0/monolib-forge-1.20.1-4.0.2.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "550588EC181B2FB58681B83B4A0D5783461E5E19EEFF8E32E37D983FE0170BB5"
     },
     {
       "name": "moogs_structure_lib",
       "filename": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
       "url": "https://cdn.modrinth.com/data/1oUDhxuy/versions/xtqWb6du/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "284E25E4B216BEBF6AA2B3859BAD7C0F47AA23281E658F0725484F994F85EAC4"
     },
     {
       "name": "creativecore",
       "filename": "CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/6fWimIyT/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "C6073EB7423F92709AEF1E934DA00983F6D4E8F05508BA0DAA7287600869B441"
     },
     {
       "name": "puzzleslib",
       "filename": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
       "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "F3077A9F817629B8E8929C1951042D1A1ADC62D30B72ADEBD54D2B074A4FAF4F"
     },
     {
       "name": "iceberg",
       "filename": "Iceberg-1.20.1-forge-1.1.25.jar",
       "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "91AD6B459E0C7A16A9F3DC90230248A696600CEEC6646AA23263559B8648DBC3"
     },
     {
       "name": "resourefulconfig",
       "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "B13AFB95231D88E1CAEA5A045967E0FC291B29020B0D26AD39E6F9E9A551FEE8"
     },
     {
       "name": "lionfishapi",
       "filename": "lionfishapi-2.7.jar",
       "url": "https://cdn.modrinth.com/data/FoVacERa/versions/G3m5juql/lionfishapi-2.7.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "AA3191415CA5263A86B7BAEDEAD2AEAFFAA94F093DCD42381E4B258E450130E3"
     },
     {
       "name": "jamlib",
       "filename": "jamlib-forge-1.3.6%2B1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/hSQgYxv0/jamlib-forge-1.3.6%2B1.20.1.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "76DC35BE8260113F31C6696EBD8397E70CF4A9F638225D6E4D51C05E85D0A424"
     },
     {
       "name": "botarium",
       "filename": "botarium-forge-1.20.1-2.3.4.jar",
       "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "470810A364FF4AD4D4FCD4E55798263938FC893970EACECC58E8B741A392B1CF"
     },
     {
       "name": "playeranimator",
       "filename": "player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
       "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "90D9965CB9EFDBDA29FDC5610BE3914CF7008BF5C392FF34F7AB25F96A852691"
     },
     {
       "name": "irons_lib",
       "filename": "irons_lib-1.20.1-1.0.2.jar",
       "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/FPYSRrdq/irons_lib-1.20.1-1.0.2.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "7C1AFCD2772AA1CED0C30678A6BF1BF9C605A482D18E2B03D51152E05D4A2800"
     },
     {
       "name": "citadel",
       "filename": "citadel-2.6.3-1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "56C7AB87348A5292583AAC787B6CF11B5193E77F02AF1D17EA75A96F8640B3CE"
     },
     {
       "name": "unusualprehistory",
       "filename": "unusualprehistory-1.5.0.3.jar",
       "url": "https://cdn.modrinth.com/data/tHu3oHNo/versions/RFAznUVo/unusualprehistory-1.5.0.3.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "A83C80D5DAC97A2D04240B6581B95FC3B65352EA1FB33409A72DB2B1A59DB018"
     },
     {
       "name": "sophisticatedcore",
       "filename": "sophisticatedcore-1.20.1-1.3.32.1828.jar",
       "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/T03P5wxy/sophisticatedcore-1.20.1-1.3.32.1828.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "0A40DED8BE9E16E1BC8950A4648A23A27AB0F9E39777270AC6F6534881233076"
     },
     {
       "name": "resourcefulconfig",
       "filename": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
       "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "PENDIENTE"
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
     }
 
   ],
