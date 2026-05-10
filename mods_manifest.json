@@ -741,13 +741,6 @@
       "sha256": "C3FB81F56A93D6D1DFA79AA9DAC84397D00B815C022B19347ACA61D6216B32CE"
     },
     {
-      "name": "Immersive Melodies",
-      "filename": "immersive_melodies-0.6.0%2B1.20.1-forge.jar",
-      "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/kOWwG85P/immersive_melodies-0.6.0%2B1.20.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
-      "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "7625E0CF725B4316A61A30BC2FD3A50C80F29001502E3FD90852E573263D937A"
-    },
-    {
       "name": "You Shall Not Spawn!",
       "filename": "YouShallNotSpawn-forge-1.20.x-2.0.2.jar",
       "url": "https://cdn.modrinth.com/data/EjXcpmEA/versions/cOtszKAy/YouShallNotSpawn-forge-1.20.x-2.0.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
