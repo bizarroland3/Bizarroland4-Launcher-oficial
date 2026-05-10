@@ -647,126 +647,126 @@
       "filename": "samurai_dynasty-0.0.51-1.20.1-forge.jar",
       "url": "https://cdn.modrinth.com/data/lMWJDrbO/versions/KzZfg6EC/samurai_dynasty-0.0.51-1.20.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "BE95A714C1D5B2E577CF2D05C6158782CC484951D08EF0EA17B3C31B80F544DF"
     },
     {
       "name": "Aquaculture",
       "filename": "Aquaculture-1.20.1-2.5.7.jar",
       "url": "https://cdn.modrinth.com/data/Vl1uNAuy/versions/wNiFoROs/Aquaculture-1.20.1-2.5.7.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "4C96CF0DD3363A8E15F9EF6B6BFC00AC7D4791E8E9EEEBE19B8092C59E800F8F"
     },
     {
       "name": "Rick's Portal Gun [Forge/NeoForge]",
       "filename": "ricksportalgun-forge-1.20.1-1.4.8.jar",
       "url": "https://cdn.modrinth.com/data/YmiD4MZg/versions/BNrU1bp0/ricksportalgun-forge-1.20.1-1.4.8.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "7F74F63845529BED4BDB9B73B51751AF4D3383E551308B79911812A21868A5C8"
     },
     {
       "name": "Wild Lands",
       "filename": "Wild_Lands_1.0.8-1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/vZSwGy3a/versions/WKrxNmA7/Wild_Lands_1.0.8-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "DFC3FB4A8485C3AE92BEBBCF038BEC257E8E66572A1432AA4FF1A54546DDB4F3"
     },
     {
       "name": "Epic Knights: Antique Legacy",
       "filename": "epic-knights-antique-legacy-1.20.x-forge-1.13.jar",
       "url": "https://cdn.modrinth.com/data/xODj7fc3/versions/4DhbZFhg/epic-knights-antique-legacy-1.20.x-forge-1.13.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "06BF57A754D93816382FD60A4B2030A84854518918A0553B3F7B38AAE33F5DEF"
     },
     {
       "name": "Craft Of The Wild (COTW)",
       "filename": "craft_of_the_wild-forge-1.20.1-1.0.1-beta.jar",
       "url": "https://cdn.modrinth.com/data/HsEWU7cz/versions/BDEPSwAv/craft_of_the_wild-forge-1.20.1-1.0.1-beta.jar?mr_download_reason=standalone&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "CB8FB2C4BF8D1B0072426DDC49BB2E3F315A0D46F47FC16D3CD2F24B2540145E"
     },
     {
       "name": "CANTBREATHE",
       "filename": "cant_breathe-1.20.1-1.0.1.jar",
       "url": "https://cdn.modrinth.com/data/gyYFlOg3/versions/ovhEAaao/cant_breathe-1.20.1-1.0.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "CEF94A0D1FC421F145470F27F988AE0C1C22A0C406761460C5FB04DBCAF62A65"
     },
     {
       "name": "Farmer's Delight",
       "filename": "FarmersDelight-1.20.1-1.3.1.jar",
       "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/ugqnwJ4j/FarmersDelight-1.20.1-1.3.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "7D13DBEB8ED1E7CD22DAF35DDF3DF4C411392A65A603B11145F84D6BF2443E9D"
     },
     {
       "name": "Ecologics",
       "filename": "ecologics-forge-1.20.1-2.2.4.jar",
       "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/lNxRTxLS/ecologics-forge-1.20.1-2.2.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "14A343F50E59F4478A95B886B2B6DA01B4F802680574ED7A2A209808250C43B1"
     },
     {
       "name": "Blue Skies",
       "filename": "blue_skies-1.20.1-1.3.31.jar",
       "url": "https://cdn.modrinth.com/data/DOSy3C4M/versions/YGq4rvX4/blue_skies-1.20.1-1.3.31.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "DDA5351A7D75F8074E9878912140FD5AB2FE4E74D7678D4F9C52C0B86BCE9748"
     },
     {
       "name": "Simple Voice Chat",
       "filename": "voicechat-forge-1.20.1-2.6.17.jar",
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/gX3p2yfw/voicechat-forge-1.20.1-2.6.17.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "31A4AA5ED047EB7687AEB1839A44EB1B53C70729B0394235775C6BF284969DF7"
     },
     {
       "name": "Joy of Painting",
       "filename": "xercapaint-1.20.1-1.1.0.jar",
       "url": "https://cdn.modrinth.com/data/YOs4tZea/versions/qxmwjHm7/xercapaint-1.20.1-1.1.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "0BD767E364825356091CFA35C4EA22F53504C7FB58DBC8E33781FEFCABFB2D8B"
     },
     {
       "name": "Supplementaries",
       "filename": "supplementaries-1.20-3.1.43-forge.jar",
       "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/S0TIJ1hU/supplementaries-1.20-3.1.43-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "6132FC23A2FE1DA0CA57439B35526EE9A1A8D898397FF8E61B2D08FB951CDF6A"
     },
     {
       "name": "Chococraft",
       "filename": "chococraft-1.20.1-forge-0.9.12.jar",
       "url": "https://cdn.modrinth.com/data/bPTEaC7v/versions/unBrj1OZ/chococraft-1.20.1-forge-0.9.12.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "C3FB81F56A93D6D1DFA79AA9DAC84397D00B815C022B19347ACA61D6216B32CE"
     },
     {
       "name": "Immersive Melodies",
       "filename": "immersive_melodies-0.6.0%2B1.20.1-forge.jar",
       "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/kOWwG85P/immersive_melodies-0.6.0%2B1.20.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "7625E0CF725B4316A61A30BC2FD3A50C80F29001502E3FD90852E573263D937A"
     },
     {
       "name": "You Shall Not Spawn!",
       "filename": "YouShallNotSpawn-forge-1.20.x-2.0.2.jar",
       "url": "https://cdn.modrinth.com/data/EjXcpmEA/versions/cOtszKAy/YouShallNotSpawn-forge-1.20.x-2.0.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "403E4E5A298393F9FEBC95C0CBE66B90CFABC531F48DCDB9BC618D1465F6ECAC"
     },
     {
       "name": "Galosphere",
       "filename": "Galosphere-1.20.1-1.5.1-Forge.jar",
       "url": "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/9uwzhJXB/Galosphere-1.20.1-1.5.1-Forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "38E23B9C90E5BD5B8945F0E275BDE6C48BB48AC9D5836CA029DA094765D3510B"
     },
     {
       "name": "azurelib",
       "filename": "azurelib-neo-1.20.1-3.1.9.jar",
       "url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/eREQf3ay/azurelib-neo-1.20.1-3.1.9.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "2FC5E5D1115D202B9DC813C4EA28C67F24D98C2E87E9C07A835B3E810F398E69"
     },
     {
       "name": "SmartBrainLib",
@@ -780,35 +780,35 @@
       "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
       "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/YkeJNm33/SmartBrainLib-forge-1.20.1-1.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "DC1F5497E1A175397FA10EA84170D8311C71B592976128700FB008139DDE55D4"
     },
     {
       "name": "Necronomicon API",
       "filename": "Necronomicon-Forge-1.6.0%2B1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/AomMq7HP/Necronomicon-Forge-1.6.0%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "403B23457288C624A55FEB90D5E813C88C23A611BC42CDA397C4BFAC94B4C3A3"
     },
     {
       "name": "Epic Knights: Shields Armor and Weapons",
       "filename": "epic-knights-1.20.1-forge-10.11.jar",
       "url": "https://cdn.modrinth.com/data/L6jvzao4/versions/2kK9qUpx/epic-knights-1.20.1-forge-10.11.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "6043FDC77EA9651B1293E8602C8E858C728628F6F6B6E9EFA247E4281F4CA733"
     },
     {
       "name": "Moonlight Lib",
       "filename": "moonlight-1.20-2.16.31-forge.jar",
       "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Myl5lEPc/moonlight-1.20-2.16.31-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "209217A0107B96EF6751B0A77C4A74896E08AF198A0CC58FE837E6CF59F15AA1"
     },
     {
       "name": "Structure Gel API",
       "filename": "structure_gel-1.20.1-2.16.2.jar",
       "url": "https://cdn.modrinth.com/data/T8TGycIQ/versions/xavY0MZc/structure_gel-1.20.1-2.16.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+      "sha256": "1584A5AED31C0F63E53C29D53CF4E069CDABF358E785240CC500702DC5918E3E"
     }
   ],
   "todo_before_launch": [
