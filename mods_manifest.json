@@ -749,10 +749,10 @@
     },
     {
       "name": "Galosphere",
-      "filename": "Galosphere-1.20.1-1.5.1-Forge.jar",
-      "url": "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/9uwzhJXB/Galosphere-1.20.1-1.5.1-Forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "filename": "Galosphere-1.20.1-1.4.1-Forge.jar",
+      "url": "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/JCd7hBd9/Galosphere-1.20.1-1.4.1-Forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "38E23B9C90E5BD5B8945F0E275BDE6C48BB48AC9D5836CA029DA094765D3510B"
+      "sha256": "F21385CA7512BA15BD66AC345E60D85916CBA9686061892F8F89548AAAEADB96"
     },
     {
       "name": "azurelib",
