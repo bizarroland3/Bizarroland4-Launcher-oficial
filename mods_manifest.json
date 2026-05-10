@@ -766,13 +766,6 @@
       "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
       "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/YkeJNm33/SmartBrainLib-forge-1.20.1-1.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
-      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
-    },
-    {
-      "name": "SmartBrainLib",
-      "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
-      "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/YkeJNm33/SmartBrainLib-forge-1.20.1-1.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
-      "why": "Requerido por: Waystones, Ad Astra",
       "sha256": "DC1F5497E1A175397FA10EA84170D8311C71B592976128700FB008139DDE55D4"
     },
     {
