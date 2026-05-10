@@ -760,6 +760,55 @@
       "url": "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/9uwzhJXB/Galosphere-1.20.1-1.5.1-Forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
       "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+    },
+    {
+      "name": "azurelib",
+      "filename": "azurelib-neo-1.20.1-3.1.9.jar",
+      "url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/eREQf3ay/azurelib-neo-1.20.1-3.1.9.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+    },
+    {
+      "name": "SmartBrainLib",
+      "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/YkeJNm33/SmartBrainLib-forge-1.20.1-1.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+    },
+    {
+      "name": "SmartBrainLib",
+      "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/YkeJNm33/SmartBrainLib-forge-1.20.1-1.15.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+    },
+    {
+      "name": "Necronomicon API",
+      "filename": "Necronomicon-Forge-1.6.0%2B1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/AomMq7HP/Necronomicon-Forge-1.6.0%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+    },
+    {
+      "name": "Epic Knights: Shields Armor and Weapons",
+      "filename": "epic-knights-1.20.1-forge-10.11.jar",
+      "url": "https://cdn.modrinth.com/data/L6jvzao4/versions/2kK9qUpx/epic-knights-1.20.1-forge-10.11.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+    },
+    {
+      "name": "Moonlight Lib",
+      "filename": "moonlight-1.20-2.16.31-forge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Myl5lEPc/moonlight-1.20-2.16.31-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
+    },
+    {
+      "name": "Structure Gel API",
+      "filename": "structure_gel-1.20.1-2.16.2.jar",
+      "url": "https://cdn.modrinth.com/data/T8TGycIQ/versions/xavY0MZc/structure_gel-1.20.1-2.16.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED"
     }
   ],
   "todo_before_launch": [
