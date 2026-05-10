@@ -274,7 +274,14 @@ class BizarroLauncher(ctk.CTk):
                 "jvmArguments": [f"-Xmx{self.ram_var.get()}G", "-XX:+UseG1GC"]
             }
             cmd = minecraft_launcher_lib.command.get_minecraft_command(target_version, mc_dir, options)
-            subprocess.Popen(cmd)
+            creationflags = 0
+            startupinfo = None
+            if os.name == "nt":
+                creationflags = getattr(subprocess, "CREATE_NO_WINDOW", 0)
+                startupinfo = subprocess.STARTUPINFO()
+                startupinfo.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+                startupinfo.wShowWindow = subprocess.SW_HIDE
+            subprocess.Popen(cmd, creationflags=creationflags, startupinfo=startupinfo)
             self.after(2000, self.destroy)
         except Exception as e:
             self._log(f"❌ Error al lanzar: {e}")
