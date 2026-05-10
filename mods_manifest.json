@@ -802,6 +802,13 @@
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
       "sha256": "1E895E85CF5B1E1905EF3178EC155C8BADFE22A1577B92C09143A5AA1F4CE0F2"
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "C77A13E3879F9F991CF592ABAC60AD0C6D2ED17F5FF697EC2DB3872B22902D4A"
     }
   ],
   "todo_before_launch": [
