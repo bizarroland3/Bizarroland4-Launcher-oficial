@@ -809,6 +809,13 @@
       "url": "https://cdn.modrinth.com/data/T8TGycIQ/versions/xavY0MZc/structure_gel-1.20.1-2.16.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
       "why": "Requerido por: Waystones, Ad Astra",
       "sha256": "1584A5AED31C0F63E53C29D53CF4E069CDABF358E785240CC500702DC5918E3E"
+    },
+    {
+      "name": "cloth-config",
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+      "why": "Requerido por: Waystones, Ad Astra",
+      "sha256": "1E895E85CF5B1E1905EF3178EC155C8BADFE22A1577B92C09143A5AA1F4CE0F2"
     }
   ],
   "todo_before_launch": [
